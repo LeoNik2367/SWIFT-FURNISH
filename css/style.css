@@ -118,7 +118,7 @@ header {
   width: 100%;
   min-height: 100vh;
   position: relative;
-  background: url("Sofa/Home.png");
+  background: url("../assets/Home.png");
   background-repeat: no-repeat;
   background-position: center right;
   background-size: cover;
